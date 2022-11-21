@@ -13,4 +13,4 @@
 # owner(s) will be requested for a review.
 /.github/workflows/    @ghas-trials/actions-reviewers
 
-/.github/CODEOWNERS    @sentry01
+/.github/CODEOWNERS    @zbazztian
